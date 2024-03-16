@@ -242,7 +242,7 @@ n = jumlah data
 
 Cara kerja metrik ini adalah dengan menyelisihkan nilai aktual dengan nilai prediksi lalu dikuadratkan kemudian ditotalkan dengan seluruh data dan selanjutnya dibagi dengan jumlah data, terakhir diakarkan. 
 
-![Hasil RMSE](![image](https://github.com/illyosxy/Proyek2MLT/assets/144518223/23029e62-69e3-4b6d-9add-cedf1f46922e))
+<div><img src="https://github.com/illyosxy/Proyek2MLT/assets/144518223/46713f31-36c0-439c-b4f7-7247f1d74c13"/></div>
 
 Jika dilihat dari performa model *Collaborative Filtering* maka model ini sudah cukup bagus karena cenderung memiliki error yang menurun dan relatif stabil seiring pertambahan epochs. Selain itu, model dapat dikatakan cukup *good fit*, kemudian relatif hasil RMSE *training* dan validasi sudah baik untuk kasus sistem rekomendasi.
 
@@ -252,5 +252,5 @@ Pada projek ini dapat disimpulkan bahwa sistem ini telah berhasil menyelesaikan 
 
 ## Reference
 
-[1] P. Mathew, B. Kuriakose and V. Hegde, "Book Recommendation System through content based and collaborative filtering method," 2016 International Conference on Data Mining and Advanced Computing (SAPIENCE), Ernakulam, India, 2016, pp. 47-52, doi: 10.1109/SAPIENCE.2016.7684166.
+[1] P. Mathew, B. Kuriakose and V. Hegde, "Book Recommendation System through content based and collaborative filtering method," 2016 International Conference on Data Mining and Advanced Computing (SAPIENCE), Ernakulam, India, 2016, pp. 47-52, doi: 10.1109/SAPIENCE.2016.7684166. <br/>
 [2] Yiu-Kai Ng. 2020. CBRec: a book recommendation system for children using the matrix factorisation and content-based filtering approaches. Int. J. Bus. Intell. Data Min. 16, 2 (2020), 129–149. https://doi.org/10.1504/ijbidm.2020.104738
